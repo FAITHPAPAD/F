@@ -22,7 +22,7 @@ LOG_FILE = "log.txt"
 KEY_FILE = "keys.json"
 
 # Cooldown time for users
-COOLDOWN_TIME = 300  # 5minutes
+COOLDOWN_TIME = 0  # 5minutes
 
 # Dictionary to store the last time each user ran the /bgmi command
 bgmi_cooldown = {}
